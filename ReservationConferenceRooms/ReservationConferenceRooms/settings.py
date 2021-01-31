@@ -84,7 +84,7 @@ DATABASES = {
         'HOSTNAME': 'localhost',
         'PORT': 5432,
         'USER': 'postgres',
-        'PASSWORD': 'coderslab',
+        'PASSWORD': '58dgCB3&h!',
     }
 }
 
